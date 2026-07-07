@@ -1,0 +1,6 @@
+{
+  "name": "Bad Decisions: Comedy Life Simulator",
+  "description": "A satirical, adult-comedy life simulator where you experience a chaotic journey from birth to death.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
